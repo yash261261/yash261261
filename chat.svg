@@ -248,7 +248,7 @@
 
   </g>
 
-  <!-- Hi, I'm Jason -->
+  <!-- Hi, I'm Yash -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="133" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Jason</text>
@@ -272,7 +272,7 @@
 
   </g>
 
-  <!-- From Columbus... -->
+  <!-- From Austin... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I live in Columbus, Ohio where it’s supposed to be</text>
@@ -297,12 +297,12 @@
 
   </g>
 
-  <!-- Work ... -->
+  <!-- Work ...
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a product designer. I used to work at GitHub,</text>
     <text x="15" y="50">but I’ve been at PlanetScale for about about 1 year now.</text>
-  </g>
+  </g> -->
 
   <!-- typing 4 -->
   <g transform="translate(10, 192)" class="typing-4">
