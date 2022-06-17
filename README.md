@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Yash
 
+I'm passionate about building healthly + efficient engineering teams, while tackling scaling problems that affect the world.
+Mostly backend engineering, with an eye for documentation, design, and polish.
 <!--
 **yash261261/yash261261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
