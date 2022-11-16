@@ -1,7 +1,16 @@
 ### Hi there 👋 I'm Yash
 
-I'm passionate about building healthly + efficient engineering teams, while tackling scaling problems that affect the world.
-Mostly backend engineering, with an eye for documentation, design, and polish.
+I'm a full-time Product Manager, part-time dreamer. 
+
+Loves: Tech, car racing, futurism, sustainable energy, and iced coffee. 
+
+🤔 Current
+I'm working on myself. I'm passionate about building healthly + efficient engineering teams, while tackling scaling problems that affect the world. 
+
+⚡ Experience
+Mostly Product Management, backend engineering, with an eye for documentation, design, and polish. 
+
+
 <!--
 **yash261261/yash261261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
