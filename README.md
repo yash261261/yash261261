@@ -2,10 +2,10 @@
 
 I'm a full-time Product Manager, part-time dreamer. 
 
-Loves: Tech, car racing, futurism, sustainable energy, and iced coffee. 
+Loves: Tech, EVs, car racing, futurism, sustainable energy, and iced coffee. 
 
 🤔 Current
-I'm working on myself. I'm passionate about building healthly + efficient engineering teams, while tackling scaling problems that affect the world. 
+I'm working on myself. I'm passionate about building healthy + efficient engineering teams while tackling scaling problems that affect the world. 
 
 ⚡ Experience
 Mostly Product Management, backend engineering, with an eye for documentation, design, and polish. 
